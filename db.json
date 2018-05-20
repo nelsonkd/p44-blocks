@@ -1,19 +1,19 @@
 {
     "blocks": [
-        {"name":"block1"},
-        {"name":"block2"},
-        {"name":"block3"}
+        {"id":1, "name":"block1"},
+        {"id":2, "name":"block2"},
+        {"id":3, "name":"block3"}
     ],
     "dispatches": [
-        {"name":"dispatch1"},
-        {"name":"dispatch2"},
-        {"name":"dispatch3"}        
+        {"id":1, "name":"dispatch1"},
+        {"id":2, "name":"dispatch2"},
+        {"id":3, "name":"dispatch3"}        
     ],
     "status": [
-        {"name":"status1"},
-        {"name":"status2"},
-        {"name":"status3"}        
-    ]
+        {"id":1, "name":"status1"},
+        {"id":2, "name":"status2"},
+        {"id":3, "name":"status3"}        
+    ],
     "profile": {
       "name": "typicode"
     }
