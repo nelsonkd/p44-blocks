@@ -1,8 +1,5 @@
 {
     "blocks": [
-        {"id":1, "name":"block1"},
-        {"id":2, "name":"block2"},
-        {"id":3, "name":"block3"}
     ],
     "profile": {
       "name": "typicode"
